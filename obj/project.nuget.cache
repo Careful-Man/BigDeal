@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mxyslbCqPSlY9zouV4iL/BAxb6h4aleSe84UOxItaQDPjPxF2WobZuHw4aGXFS7a+dEUW1Ar1Xz4OtPLnO8TRA==",
+  "dgSpecHash": "l2SOvszxjxoMHuJNE9hhwoY07dBzVfpNPpOBpkBoxblE5XhWcBTjhByUJSgD37Ns1QPQ3D07sPwAin9ZvlBI3g==",
   "success": true,
   "projectFilePath": "\\\\gserver-new\\KOINO\\Tom\\VS\\BigDeal\\BigDeal.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
   "logs": []
 }
