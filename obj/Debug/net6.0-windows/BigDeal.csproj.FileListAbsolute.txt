@@ -1,0 +1,17 @@
+\\gserver-new\KOINO\Tom\VS\BigDeal\bin\Debug\net6.0-windows\BigDeal.exe
+\\gserver-new\KOINO\Tom\VS\BigDeal\bin\Debug\net6.0-windows\BigDeal.deps.json
+\\gserver-new\KOINO\Tom\VS\BigDeal\bin\Debug\net6.0-windows\BigDeal.runtimeconfig.json
+\\gserver-new\KOINO\Tom\VS\BigDeal\bin\Debug\net6.0-windows\BigDeal.dll
+\\gserver-new\KOINO\Tom\VS\BigDeal\bin\Debug\net6.0-windows\BigDeal.pdb
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.csproj.AssemblyReference.cache
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.Form1.resources
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.csproj.GenerateResource.cache
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.GeneratedMSBuildEditorConfig.editorconfig
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.AssemblyInfoInputs.cache
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.AssemblyInfo.cs
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.csproj.CoreCompileInputs.cache
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.dll
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\refint\BigDeal.dll
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.pdb
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\BigDeal.genruntimeconfig.cache
+\\gserver-new\KOINO\Tom\VS\BigDeal\obj\Debug\net6.0-windows\ref\BigDeal.dll
